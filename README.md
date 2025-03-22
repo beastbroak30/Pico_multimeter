@@ -8,7 +8,8 @@ A **Raspberry Pi Pico-based digital multimeter** that measures **0-12V DC** usin
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9598c68b-6c5d-489e-984c-6f735327fc7a" alt="Multimeter with Pico" width="800">
 </p>
-![on Action](https://youtube.com/shorts/8LYfVkVdwe0)
+
+[![Watch the Video](https://img.youtube.com/vi/8LYfVkVdwe0/0.jpg)](https://youtube.com/shorts/8LYfVkVdwe0)
 ---
 
 ## 📌 Features  
