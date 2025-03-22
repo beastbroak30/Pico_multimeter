@@ -1,11 +1,14 @@
-![IMG_20250318_203204_458](https://github.com/user-attachments/assets/9598c68b-6c5d-489e-984c-6f735327fc7a)# Pico Multimeter 📟⚡  
+# Pico Multimeter 📟⚡  
 
 A **Raspberry Pi Pico-based digital multimeter** that measures **0-12V DC** using a **voltage divider**, **OLED display (SSD1306)**, and a **10kΩ potentiometer for calibration**. This project is built with **MicroPython** and optimized for **stable ADC readings, minimal noise, and smooth OLED updates**.
 
 ---
 ## Some Pics and Workable
-![Multimeter with Pico](images/circuit_diagram.png)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9598c68b-6c5d-489e-984c-6f735327fc7a" alt="Multimeter with Pico" width="800">
+</p>
+![on Action](https://youtube.com/shorts/8LYfVkVdwe0)
 ---
 
 ## 📌 Features  
